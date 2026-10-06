@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aggarwalanmol1/L/tree/master/0204-count-primes) |
+## Hash Table
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/aggarwalanmol1/L/tree/master/0299-bulls-and-cows) |
+## String
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/aggarwalanmol1/L/tree/master/0299-bulls-and-cows) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/aggarwalanmol1/L/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
