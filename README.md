@@ -2,77 +2,77 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/aggarwalanmol1/L/tree/master/0204-count-primes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aggarwalanmol1/L/tree/master/0304-range-sum-query-2d-immutable) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/aggarwalanmol1/L/tree/master/0204-count-primes) |
-| [0292-nim-game](https://github.com/aggarwalanmol1/L/tree/master/0292-nim-game) |
+| [0292-nim-game](https://github.com/aggarwalanmol1/L/tree/main/0292-nim-game/) | Easy |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/aggarwalanmol1/L/tree/master/0204-count-primes) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/aggarwalanmol1/L/tree/master/0204-count-primes) |
 ## Primality Test
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/aggarwalanmol1/L/tree/master/0204-count-primes) |
 ## Sieve Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/aggarwalanmol1/L/tree/master/0204-count-primes) |
 ## Prime Number Sieve
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/aggarwalanmol1/L/tree/master/0204-count-primes) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0299-bulls-and-cows](https://github.com/aggarwalanmol1/L/tree/master/0299-bulls-and-cows) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0299-bulls-and-cows](https://github.com/aggarwalanmol1/L/tree/master/0299-bulls-and-cows) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0299-bulls-and-cows](https://github.com/aggarwalanmol1/L/tree/master/0299-bulls-and-cows) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/aggarwalanmol1/L/tree/master/0304-range-sum-query-2d-immutable) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/aggarwalanmol1/L/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/aggarwalanmol1/L/tree/master/0304-range-sum-query-2d-immutable) |
 ## Brainteaser
-|  |
-| ------- |
-| [0292-nim-game](https://github.com/aggarwalanmol1/L/tree/master/0292-nim-game) |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/aggarwalanmol1/L/tree/main/0292-nim-game/) | Easy |
 ## Minimax
-|  |
-| ------- |
-| [0292-nim-game](https://github.com/aggarwalanmol1/L/tree/master/0292-nim-game) |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/aggarwalanmol1/L/tree/main/0292-nim-game/) | Easy |
 ## Game Theory
-|  |
-| ------- |
-| [0292-nim-game](https://github.com/aggarwalanmol1/L/tree/master/0292-nim-game) |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/aggarwalanmol1/L/tree/main/0292-nim-game/) | Easy |
 ## Nim Game
-|  |
-| ------- |
-| [0292-nim-game](https://github.com/aggarwalanmol1/L/tree/master/0292-nim-game) |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/aggarwalanmol1/L/tree/main/0292-nim-game/) | Easy |
 ## Impartial Game
-|  |
-| ------- |
-| [0292-nim-game](https://github.com/aggarwalanmol1/L/tree/master/0292-nim-game) |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/aggarwalanmol1/L/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
