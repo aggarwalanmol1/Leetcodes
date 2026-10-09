@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aggarwalanmol1/L/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/aggarwalanmol1/L/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/aggarwalanmol1/L/tree/main/0292-nim-game/) | Easy |
 ## Enumeration
@@ -141,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/aggarwalanmol1/L/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aggarwalanmol1/L/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aggarwalanmol1/L/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
