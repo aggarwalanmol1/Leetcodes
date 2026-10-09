@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aggarwalanmol1/L/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/aggarwalanmol1/L/tree/master/0004-median-of-two-sorted-arrays) |
 | [0204-count-primes](https://github.com/aggarwalanmol1/L/tree/master/0204-count-primes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aggarwalanmol1/L/tree/master/0304-range-sum-query-2d-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aggarwalanmol1/L/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -103,10 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aggarwalanmol1/L/tree/master/0004-median-of-two-sorted-arrays) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aggarwalanmol1/L/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aggarwalanmol1/L/tree/master/0004-median-of-two-sorted-arrays) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aggarwalanmol1/L/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Binary Indexed Tree
 |  |
