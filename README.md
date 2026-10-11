@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aggarwalanmol1/L/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/aggarwalanmol1/L/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/aggarwalanmol1/L/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/aggarwalanmol1/L/tree/master/0010-regular-expression-matching) |
 | [0299-bulls-and-cows](https://github.com/aggarwalanmol1/L/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/aggarwalanmol1/L/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aggarwalanmol1/L/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
@@ -159,8 +160,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aggarwalanmol1/L/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/aggarwalanmol1/L/tree/master/0010-regular-expression-matching) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aggarwalanmol1/L/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/aggarwalanmol1/L/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
