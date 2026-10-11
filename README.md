@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aggarwalanmol1/L/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/aggarwalanmol1/L/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/aggarwalanmol1/L/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/aggarwalanmol1/L/tree/master/0045-jump-game-ii) |
 | [0204-count-primes](https://github.com/aggarwalanmol1/L/tree/master/0204-count-primes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aggarwalanmol1/L/tree/master/0304-range-sum-query-2d-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aggarwalanmol1/L/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aggarwalanmol1/L/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/aggarwalanmol1/L/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/aggarwalanmol1/L/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/aggarwalanmol1/L/tree/master/0316-remove-duplicate-letters) |
 ## Monotonic Stack
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/aggarwalanmol1/L/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aggarwalanmol1/L/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/aggarwalanmol1/L/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/aggarwalanmol1/L/tree/master/0045-jump-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
