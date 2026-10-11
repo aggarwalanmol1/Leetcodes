@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aggarwalanmol1/L/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aggarwalanmol1/L/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aggarwalanmol1/L/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/aggarwalanmol1/L/tree/master/0020-valid-parentheses) |
 | [0299-bulls-and-cows](https://github.com/aggarwalanmol1/L/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/aggarwalanmol1/L/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aggarwalanmol1/L/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aggarwalanmol1/L/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/aggarwalanmol1/L/tree/master/0316-remove-duplicate-letters) |
 ## Greedy
 |  |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aggarwalanmol1/L/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aggarwalanmol1/L/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
