@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/aggarwalanmol1/L/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aggarwalanmol1/L/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/aggarwalanmol1/L/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/aggarwalanmol1/L/tree/master/0042-trapping-rain-water) |
 | [0204-count-primes](https://github.com/aggarwalanmol1/L/tree/master/0204-count-primes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aggarwalanmol1/L/tree/master/0304-range-sum-query-2d-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aggarwalanmol1/L/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aggarwalanmol1/L/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aggarwalanmol1/L/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aggarwalanmol1/L/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/aggarwalanmol1/L/tree/master/0316-remove-duplicate-letters) |
 ## Greedy
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aggarwalanmol1/L/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/aggarwalanmol1/L/tree/master/0316-remove-duplicate-letters) |
 ## Bit Manipulation
 |  |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/aggarwalanmol1/L/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/aggarwalanmol1/L/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aggarwalanmol1/L/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aggarwalanmol1/L/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/aggarwalanmol1/L/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aggarwalanmol1/L/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/aggarwalanmol1/L/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/aggarwalanmol1/L/tree/master/0042-trapping-rain-water) |
 ## Trie
 |  |
 | ------- |
