@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aggarwalanmol1/L/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aggarwalanmol1/L/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/aggarwalanmol1/L/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/aggarwalanmol1/L/tree/master/0037-sudoku-solver) |
 | [0204-count-primes](https://github.com/aggarwalanmol1/L/tree/master/0204-count-primes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aggarwalanmol1/L/tree/master/0304-range-sum-query-2d-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aggarwalanmol1/L/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aggarwalanmol1/L/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aggarwalanmol1/L/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/aggarwalanmol1/L/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/aggarwalanmol1/L/tree/master/0037-sudoku-solver) |
 | [0299-bulls-and-cows](https://github.com/aggarwalanmol1/L/tree/master/0299-bulls-and-cows) |
 ## String
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/aggarwalanmol1/L/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/aggarwalanmol1/L/tree/master/0037-sudoku-solver) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aggarwalanmol1/L/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
 |  |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aggarwalanmol1/L/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aggarwalanmol1/L/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/aggarwalanmol1/L/tree/master/0037-sudoku-solver) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -276,4 +280,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aggarwalanmol1/L/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/aggarwalanmol1/L/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/aggarwalanmol1/L/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
