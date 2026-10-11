@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aggarwalanmol1/L/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/aggarwalanmol1/L/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/aggarwalanmol1/L/tree/main/0292-nim-game/) | Easy |
+| [0319-bulb-switcher](https://github.com/aggarwalanmol1/L/tree/master/0319-bulb-switcher) |
 ## Enumeration
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/aggarwalanmol1/L/tree/main/0292-nim-game/) | Easy |
+| [0319-bulb-switcher](https://github.com/aggarwalanmol1/L/tree/master/0319-bulb-switcher) |
 ## Minimax
 |  |
 | ------- |
