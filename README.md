@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/aggarwalanmol1/L/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aggarwalanmol1/L/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/aggarwalanmol1/L/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/aggarwalanmol1/L/tree/master/0015-3sum) |
 | [0204-count-primes](https://github.com/aggarwalanmol1/L/tree/master/0204-count-primes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aggarwalanmol1/L/tree/master/0304-range-sum-query-2d-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aggarwalanmol1/L/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -183,8 +184,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aggarwalanmol1/L/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aggarwalanmol1/L/tree/master/0015-3sum) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aggarwalanmol1/L/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/aggarwalanmol1/L/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
