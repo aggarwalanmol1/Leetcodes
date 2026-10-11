@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/aggarwalanmol1/L/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aggarwalanmol1/L/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/aggarwalanmol1/L/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/aggarwalanmol1/L/tree/master/0049-group-anagrams) |
 | [0204-count-primes](https://github.com/aggarwalanmol1/L/tree/master/0204-count-primes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aggarwalanmol1/L/tree/master/0304-range-sum-query-2d-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aggarwalanmol1/L/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/aggarwalanmol1/L/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aggarwalanmol1/L/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/aggarwalanmol1/L/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/aggarwalanmol1/L/tree/master/0049-group-anagrams) |
 | [0299-bulls-and-cows](https://github.com/aggarwalanmol1/L/tree/master/0299-bulls-and-cows) |
 ## String
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/aggarwalanmol1/L/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/aggarwalanmol1/L/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/aggarwalanmol1/L/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/aggarwalanmol1/L/tree/master/0049-group-anagrams) |
 | [0299-bulls-and-cows](https://github.com/aggarwalanmol1/L/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/aggarwalanmol1/L/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aggarwalanmol1/L/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/aggarwalanmol1/L/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aggarwalanmol1/L/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/aggarwalanmol1/L/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/aggarwalanmol1/L/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
