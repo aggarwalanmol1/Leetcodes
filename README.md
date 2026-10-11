@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/aggarwalanmol1/L/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aggarwalanmol1/L/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/aggarwalanmol1/L/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/aggarwalanmol1/L/tree/master/0043-multiply-strings) |
 | [0204-count-primes](https://github.com/aggarwalanmol1/L/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/aggarwalanmol1/L/tree/main/0292-nim-game/) | Easy |
 ## Enumeration
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aggarwalanmol1/L/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/aggarwalanmol1/L/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/aggarwalanmol1/L/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/aggarwalanmol1/L/tree/master/0043-multiply-strings) |
 | [0299-bulls-and-cows](https://github.com/aggarwalanmol1/L/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/aggarwalanmol1/L/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aggarwalanmol1/L/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aggarwalanmol1/L/tree/master/0037-sudoku-solver) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/aggarwalanmol1/L/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
