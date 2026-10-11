@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/aggarwalanmol1/L/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aggarwalanmol1/L/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aggarwalanmol1/L/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/aggarwalanmol1/L/tree/master/0041-first-missing-positive) |
 | [0204-count-primes](https://github.com/aggarwalanmol1/L/tree/master/0204-count-primes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aggarwalanmol1/L/tree/master/0304-range-sum-query-2d-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aggarwalanmol1/L/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aggarwalanmol1/L/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/aggarwalanmol1/L/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aggarwalanmol1/L/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/aggarwalanmol1/L/tree/master/0041-first-missing-positive) |
 | [0299-bulls-and-cows](https://github.com/aggarwalanmol1/L/tree/master/0299-bulls-and-cows) |
 ## String
 |  |
