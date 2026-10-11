@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aggarwalanmol1/L/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aggarwalanmol1/L/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/aggarwalanmol1/L/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aggarwalanmol1/L/tree/master/0022-generate-parentheses) |
 | [0299-bulls-and-cows](https://github.com/aggarwalanmol1/L/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/aggarwalanmol1/L/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aggarwalanmol1/L/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/aggarwalanmol1/L/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/aggarwalanmol1/L/tree/master/0022-generate-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -211,8 +213,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aggarwalanmol1/L/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/aggarwalanmol1/L/tree/master/0022-generate-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aggarwalanmol1/L/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aggarwalanmol1/L/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
