@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/aggarwalanmol1/L/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/aggarwalanmol1/L/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aggarwalanmol1/L/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/aggarwalanmol1/L/tree/master/0051-n-queens) |
 | [0204-count-primes](https://github.com/aggarwalanmol1/L/tree/master/0204-count-primes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aggarwalanmol1/L/tree/master/0304-range-sum-query-2d-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aggarwalanmol1/L/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aggarwalanmol1/L/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aggarwalanmol1/L/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aggarwalanmol1/L/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/aggarwalanmol1/L/tree/master/0051-n-queens) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aggarwalanmol1/L/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/aggarwalanmol1/L/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
