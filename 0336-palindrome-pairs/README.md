@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/palindrome-pairs/">336. Palindrome Pairs</a></h2><h3>Hard</h3><hr><p>You are given a <strong>0-indexed</strong> array of <strong>unique</strong> strings <code>words</code>.</p>
+<h2><a href="https://leetcode.com/problems/palindrome-pairs">336. Palindrome Pairs</a></h2><h3>Hard</h3><hr><p>You are given a <strong>0-indexed</strong> array of <strong>unique</strong> strings <code>words</code>.</p>
 
 <p>A <strong>palindrome pair</strong> is a pair of integers <code>(i, j)</code> such that:</p>
 
