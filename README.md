@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/aggarwalanmol1/L/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/aggarwalanmol1/L/tree/main/0326-power-of-three/) | Easy |
 | [0335-self-crossing](https://github.com/aggarwalanmol1/L/tree/main/0335-self-crossing/) | Hard |
+| [0342-power-of-four](https://github.com/aggarwalanmol1/L/tree/main/0342-power-of-four/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/aggarwalanmol1/L/tree/master/0029-divide-two-integers) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aggarwalanmol1/L/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0338-counting-bits](https://github.com/aggarwalanmol1/L/tree/main/0338-counting-bits/) | Easy |
+| [0342-power-of-four](https://github.com/aggarwalanmol1/L/tree/main/0342-power-of-four/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/aggarwalanmol1/L/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/aggarwalanmol1/L/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/aggarwalanmol1/L/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/aggarwalanmol1/L/tree/main/0342-power-of-four/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
