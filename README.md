@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aggarwalanmol1/L/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/aggarwalanmol1/L/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aggarwalanmol1/L/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/aggarwalanmol1/L/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/aggarwalanmol1/L/tree/master/0304-range-sum-query-2d-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/aggarwalanmol1/L/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/aggarwalanmol1/L/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/aggarwalanmol1/L/tree/main/0327-count-of-range-sum/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/aggarwalanmol1/L/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aggarwalanmol1/L/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/aggarwalanmol1/L/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aggarwalanmol1/L/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aggarwalanmol1/L/tree/main/0327-count-of-range-sum/) | Hard |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/aggarwalanmol1/L/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -481,4 +485,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aggarwalanmol1/L/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/aggarwalanmol1/L/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/aggarwalanmol1/L/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 <!---LeetCode Topics End-->
