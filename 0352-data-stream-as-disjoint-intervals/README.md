@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/design-snake-game/description/">352. Data Stream as Disjoint Intervals</a></h2><h3>Hard</h3><hr><p>Given a data stream input of non-negative integers <code>a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub></code>, summarize the numbers seen so far as a list of disjoint intervals.</p>
+<h2><a href="https://leetcode.com/problems/data-stream-as-disjoint-intervals">352. Data Stream as Disjoint Intervals</a></h2><h3>Hard</h3><hr><p>Given a data stream input of non-negative integers <code>a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub></code>, summarize the numbers seen so far as a list of disjoint intervals.</p>
 
 <p>Implement the <code>SummaryRanges</code> class:</p>
 
