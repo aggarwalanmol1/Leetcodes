@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aggarwalanmol1/L/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aggarwalanmol1/L/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0354-russian-doll-envelopes](https://github.com/aggarwalanmol1/L/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aggarwalanmol1/L/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/aggarwalanmol1/L/tree/main/0335-self-crossing/) | Hard |
 | [0342-power-of-four](https://github.com/aggarwalanmol1/L/tree/main/0342-power-of-four/) | Easy |
 | [0343-integer-break](https://github.com/aggarwalanmol1/L/tree/main/0343-integer-break/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aggarwalanmol1/L/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
