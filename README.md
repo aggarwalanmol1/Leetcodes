@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/aggarwalanmol1/L/tree/main/0335-self-crossing/) | Hard |
 | [0342-power-of-four](https://github.com/aggarwalanmol1/L/tree/main/0342-power-of-four/) | Easy |
 | [0343-integer-break](https://github.com/aggarwalanmol1/L/tree/main/0343-integer-break/) | Medium |
+| [0357-count-numbers-with-unique-digits](https://github.com/aggarwalanmol1/L/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aggarwalanmol1/L/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aggarwalanmol1/L/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 ## Enumeration
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/aggarwalanmol1/L/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/aggarwalanmol1/L/tree/main/0343-integer-break/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/aggarwalanmol1/L/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [0357-count-numbers-with-unique-digits](https://github.com/aggarwalanmol1/L/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/aggarwalanmol1/L/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/aggarwalanmol1/L/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/aggarwalanmol1/L/tree/master/0052-n-queens-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/aggarwalanmol1/L/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
