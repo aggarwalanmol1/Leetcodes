@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aggarwalanmol1/L/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aggarwalanmol1/L/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aggarwalanmol1/L/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aggarwalanmol1/L/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aggarwalanmol1/L/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aggarwalanmol1/L/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Math
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aggarwalanmol1/L/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aggarwalanmol1/L/tree/main/0327-count-of-range-sum/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aggarwalanmol1/L/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Merge Sort
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/aggarwalanmol1/L/tree/main/0321-create-maximum-number/) | Hard |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/aggarwalanmol1/L/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/aggarwalanmol1/L/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aggarwalanmol1/L/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aggarwalanmol1/L/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/aggarwalanmol1/L/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/aggarwalanmol1/L/tree/main/0321-create-maximum-number/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aggarwalanmol1/L/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aggarwalanmol1/L/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aggarwalanmol1/L/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aggarwalanmol1/L/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aggarwalanmol1/L/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Dynamic Programming
 |  |
@@ -507,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/aggarwalanmol1/L/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aggarwalanmol1/L/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Iterator
 |  |
 | ------- |
@@ -543,4 +549,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/aggarwalanmol1/L/tree/main/0365-water-and-jug-problem/) | Medium |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aggarwalanmol1/L/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
