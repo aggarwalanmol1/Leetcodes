@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/aggarwalanmol1/L/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/aggarwalanmol1/L/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aggarwalanmol1/L/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aggarwalanmol1/L/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Counting
 |  |
 | ------- |
