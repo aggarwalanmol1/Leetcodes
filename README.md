@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aggarwalanmol1/L/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aggarwalanmol1/L/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aggarwalanmol1/L/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aggarwalanmol1/L/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aggarwalanmol1/L/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aggarwalanmol1/L/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aggarwalanmol1/L/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aggarwalanmol1/L/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/aggarwalanmol1/L/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0355-design-twitter](https://github.com/aggarwalanmol1/L/tree/main/0355-design-twitter/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aggarwalanmol1/L/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aggarwalanmol1/L/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## String
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/aggarwalanmol1/L/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aggarwalanmol1/L/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aggarwalanmol1/L/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aggarwalanmol1/L/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Counting
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/aggarwalanmol1/L/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/aggarwalanmol1/L/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/aggarwalanmol1/L/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aggarwalanmol1/L/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/aggarwalanmol1/L/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/aggarwalanmol1/L/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/aggarwalanmol1/L/tree/main/0365-water-and-jug-problem/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aggarwalanmol1/L/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
