@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aggarwalanmol1/L/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aggarwalanmol1/L/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aggarwalanmol1/L/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/aggarwalanmol1/L/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/aggarwalanmol1/L/tree/main/0355-design-twitter/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/aggarwalanmol1/L/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aggarwalanmol1/L/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/aggarwalanmol1/L/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/aggarwalanmol1/L/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/aggarwalanmol1/L/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0367-valid-perfect-square](https://github.com/aggarwalanmol1/L/tree/main/0367-valid-perfect-square/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/aggarwalanmol1/L/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/aggarwalanmol1/L/tree/main/0336-palindrome-pairs/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/aggarwalanmol1/L/tree/master/3934-smallest-unique-subarray) |
 ## DP on Trees
 |  |
 | ------- |
@@ -588,4 +592,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aggarwalanmol1/L/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/aggarwalanmol1/L/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/aggarwalanmol1/L/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
